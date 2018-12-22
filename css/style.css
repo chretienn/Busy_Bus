@@ -1,0 +1,287 @@
+*, *:before, *:after {
+box-sizing: border-box;
+}
+
+body {
+color: white;
+background-color: black;
+background-repeat: no-repeat;
+font-size: 20px;
+font-family: "SF Pro Display", "sans-serif";
+}
+
+.container {
+background-color: black;
+width: 375px;
+}
+
+.search-bar {
+padding-left: 15px;
+margin: 5px;
+}
+
+.map-picture {
+padding-left: 15px;
+margin: 5px;
+}
+
+.header {
+padding-left: 0;
+padding-right: 0;
+position: relative;
+width: 375px;
+top: 0;
+z-index: 1;
+background: black;
+}
+
+.number {
+font-weight: bold;
+border-radius: 10px;
+text-align: center;
+margin-top: 1;
+background-color: #525252;
+color: white;
+padding: 20px 32px;
+display: inline-block;
+font-size: 20px;
+position: relative;
+z-index: 2;
+}
+
+.number2 {
+font-weight: bold;
+border-radius: 10px;
+text-align: center;
+margin-top: 1;
+background-color: #525252;
+color: white;
+padding: 20px 28px;
+display: inline-block;
+font-size: 20px;
+position: relative;
+z-index: 2;
+}
+
+.list1 {
+float: right;
+margin-top: -65;
+box-sizing: border-box;
+border-radius: 10px px 0 0;
+position: relative;
+}
+
+.list2 {
+float: right;
+margin-top: -.999999;
+box-sizing: border-box;
+border-radius: 10px px 0 0;
+position: relative;
+}
+
+
+.bus1 {
+border-radius: 10px;
+background-color: #363636;
+}
+
+.bus {
+list-style: none;
+margin: 0;
+padding: 0;
+border-radius: 1px;
+height:8%;
+width: 100%;
+display: inline-block;
+}
+
+
+.route1 {
+font-size: 17px;
+padding-right: 86px;
+text-align: right;
+font-weight: normal;
+color: #29A0E3;
+font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+
+}
+
+.route2 {
+font-size: 17px;
+padding-right: 203px;
+text-align: right;
+font-weight: normal;
+color: #29A0E3;
+font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+
+}
+
+.route3 {
+font-size: 17px;
+padding-right: 185px;
+text-align: right;
+font-weight: normal;
+color: #29A0E3;
+font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+
+}
+
+.route4 {
+font-size: 17px;
+padding-right: 88px;
+text-align: right;
+font-weight: normal;
+color: #29A0E3;
+font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+
+}
+
+.route5 {
+font-size: 17px;
+padding-right: 155px;
+text-align: right;
+font-weight: normal;
+color: #29A0E3;
+font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+
+}
+
+.route6 {
+font-size: 17px;
+padding-right: 109px;
+text-align: right;
+font-weight: normal;
+color: #29A0E3;
+font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+
+}
+
+.route7 {
+font-size: 17px;
+padding-right: 165px;
+text-align: right;
+font-weight: normal;
+color: grey;
+font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+
+}
+
+.route8 {
+font-size: 17px;
+padding-right: 211px;
+text-align: right;
+font-weight: normal;
+color: grey;
+font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+
+}
+
+.arrival1 {
+font-size: 16px;
+padding-right: 110px;
+font-weight: normal;
+text-align: center;
+color: white;
+font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+}
+
+.route9 {
+font-size: 17px;
+padding-right: 135px;
+text-align: right;
+font-weight: normal;
+color: grey;
+font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+
+}
+
+.arrival2 {
+font-size: 16px;
+padding-right: 196px;
+font-weight: normal;
+text-align: center;
+color: white;
+font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+}
+
+.arrival3 {
+font-size: 16px;
+padding-right: 230px;
+font-weight: normal;
+text-align: center;
+color: white;
+font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+}
+
+.arrival4 {
+font-size: 16px;
+padding-right: 156px;
+font-weight: normal;
+text-align: center;
+color: gray;
+font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+}
+
+.frequency1 {
+font-size: 14px;
+padding-right: 97px;
+color: orange;
+font-weight: normal;
+text-align: center;
+}
+
+.frequency2 {
+font-size: 14px;
+padding-right: 192px;
+color: orange;
+font-weight: normal;
+text-align: center;
+}
+
+.frequency3 {
+font-size: 14px;
+padding-right: 227px;
+color: red;
+font-weight: normal;
+text-align: center;
+}
+
+.frequency4 {
+font-size: 14px;
+padding-left: 20px;
+padding-right: 164px;
+color: yellow;
+font-weight: normal;
+text-align: center;
+}
+
+.frequency5 {
+font-size: 14px;
+padding-left: 20px;
+padding-right: 169px;
+color: yellow;
+font-weight: normal;
+text-align: center;
+}
+
+.chevron {
+margin-top: 8px;
+font-size: 20px;
+font-weight: bold;
+color: #FFFFFF;
+text-align: center;
+display: inline-block;
+float: right;
+padding: 10px;
+
+}
+
+.minutes {
+height:75px;
+font-size: 14px;
+font-weight: normal;
+color: #4FBA61;
+text-align: right;
+display: inline-block;
+float: right;
+}
