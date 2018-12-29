@@ -33,7 +33,7 @@ width: 375px;
 }
 
 .header {
-padding-bottom: 15px; <!-- fixed -->
+padding-bottom: 15px;
 padding-left: 0;
 padding-right: 0;
 position: relative;
@@ -47,7 +47,7 @@ background: black;
 font-weight: bold;
 border-radius: 10px;
 text-align: center;
-margin-top: 1;
+margin-top: 1px;
 background-color: #525252;
 color: white;
 padding: 20px 32px;
@@ -55,13 +55,14 @@ display: inline-block;
 font-size: 20px;
 position: relative;
 z-index: 2;
+font-family: 'SF Pro Text';
 }
 
 .number2 {
 font-weight: bold;
 border-radius: 10px;
 text-align: center;
-margin-top: 1;
+margin-top: 1px;
 background-color: #525252;
 color: white;
 padding: 20px 28px;
@@ -69,12 +70,13 @@ display: inline-block;
 font-size: 20px;
 position: relative;
 z-index: 2;
+font-family: 'SF Pro Text';
 }
 
 .list1 {
 padding-top: 1px;
 float: right;
-margin-top: -75px; <!-- fixed -->
+margin-top: -75px;
 box-sizing: border-box;
 border-radius: 10px;
 position: relative;
@@ -97,7 +99,7 @@ background-color: #363636;
 .bus {
 list-style: none;
 margin: 0;
-padding-bottom: 15px; <!-- fixed -->
+padding-bottom: 15px;
 border-radius: 1px;
 height: 8%;
 width: 100%;
@@ -232,48 +234,53 @@ font-family: 'SF Pro Text', Helvetica, Arial, sans-serif;
 
 .frequency1 {
 font-size: 14px;
-padding-right: 93px;
+padding-right: 85px;
 color: orange;
 font-weight: normal;
 text-align: center;
+font-family: 'SF Pro Text';
 }
 
 .frequency2 {
 text-align: center;
 font-size: 14px;
-padding-right: 189px;
+padding-right: 180px;
 color: orange;
 font-weight: normal;
 text-align: center;
+font-family: 'SF Pro Text';
 }
 
 .frequency3 {
 text-align: center;
 font-size: 14px;
-padding-right: 225px;
+padding-right: 220px;
 color: red;
 font-weight: normal;
 text-align: center;
+font-family: 'SF Pro Text';
 }
 
 .frequency4 {
 text-align: center;
 font-size: 14px;
 padding-left: 20px;
-padding-right: 164px;
+padding-right: 156px;
 color: yellow;
 font-weight: normal;
 text-align: center;
+font-family: 'SF Pro Text';
 }
 
 .frequency5 {
 text-align: center;
 font-size: 14px;
 padding-left: 20px;
-padding-right: 167px;
+padding-right: 160px;
 color: yellow;
 font-weight: normal;
 text-align: center;
+font-family: 'SF Pro Text';
 }
 
 .chevron {
