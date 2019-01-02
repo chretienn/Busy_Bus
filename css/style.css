@@ -7,7 +7,8 @@ color: white;
 background-color: black;
 background-repeat: no-repeat;
 font-size: 20px;
-font-family: "SF Pro Display", "sans-serif";
+font-family: 'Roboto', sans-serif;
+
 }
 
 .container {
@@ -16,15 +17,15 @@ width: 375px;
 }
 
 form.example input[type=text] {
-  color: #29A0E3;
-  margin: 3px;
-  border-radius: 9px;
-  padding: 7px;
-  font-size: 17px;
-  border: 0px;
-  float: center;
-  width: 375px;
-  background-color: #363636;
+color: #29A0E3;
+margin: 3px;
+border-radius: 9px;
+padding: 7px;
+font-size: 17px;
+border: 0px;
+float: center;
+width: 375px;
+background-color: #363636;
 }
 
 .map-picture {
@@ -47,7 +48,7 @@ background: black;
 font-weight: bold;
 border-radius: 10px;
 text-align: center;
-margin-top: 1px;
+margin-top: 1;
 background-color: #525252;
 color: white;
 padding: 20px 32px;
@@ -55,7 +56,7 @@ display: inline-block;
 font-size: 20px;
 position: relative;
 z-index: 2;
-font-family: 'SF Pro Text';
+font-family: 'Roboto', sans-serif;
 }
 
 .number2 {
@@ -70,7 +71,7 @@ display: inline-block;
 font-size: 20px;
 position: relative;
 z-index: 2;
-font-family: 'SF Pro Text';
+font-family: 'Roboto', sans-serif;
 }
 
 .list1 {
@@ -90,7 +91,7 @@ position: relative;
 }
 
 
-.bus1 {
+.route-box {
 border-radius: 10px;
 line-height: 1.6;
 background-color: #363636;
@@ -109,100 +110,100 @@ display: inline-block;
 
 .route1 {
 font-size: 17px;
-padding-right: 77px;
+padding-right: 83px;
 text-align: right;
 font-weight: normal;
 color: #29A0E3;
-font-family: 'SF Pro Text';
+font-family: 'Roboto', sans-serif;
 
 }
 
 .route2 {
 font-size: 17px;
-padding-right: 199px;
+padding-right: 200px;
 text-align: right;
 font-weight: normal;
 color: #29A0E3;
-font-family: 'SF Pro Text';
+font-family: 'Roboto', sans-serif;
 
 }
 
 .route3 {
 font-size: 17px;
-padding-right: 177px;
+padding-right: 179px;
 text-align: right;
 font-weight: normal;
 color: #29A0E3;
-font-family: 'SF Pro Text';
+font-family: 'Roboto', sans-serif;
 
 }
 
 .route4 {
 font-size: 17px;
-padding-right: 84px;
+padding-right: 78px;
 text-align: right;
 font-weight: normal;
 color: #29A0E3;
-font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+font-family: 'Roboto', sans-serif;
 
 }
 
 .route5 {
 font-size: 17px;
-padding-right: 145px;
+padding-right: 149px;
 text-align: right;
 font-weight: normal;
 color: #29A0E3;
-font-family: 'SF Pro Text', Helvetica, Arial, sans-serif;
+font-family: 'Roboto', sans-serif;
 
 }
 
 .route6 {
 font-size: 17px;
-padding-right: 100px;
+padding-right: 104px;
 text-align: right;
 font-weight: normal;
 color: #29A0E3;
-font-family: 'SF Pro Text', Helvetica, Arial, sans-serif;
+font-family: 'Roboto', sans-serif;
 
 }
 
 .route7 {
 font-size: 17px;
-padding-right: 160px;
+padding-right: 164px;
 text-align: right;
 font-weight: normal;
 color: grey;
-font-family: 'SF Pro Text', Helvetica, Arial, sans-serif;
+font-family: 'Roboto', sans-serif;
 
 }
 
 .route8 {
 font-size: 17px;
-padding-right: 190px;
+padding-right: 185px;
 text-align: center;
 font-weight: normal;
 color: grey;
-font-family: 'SF Pro Text', Helvetica, Arial, sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 
 .route9 {
 font-size: 17px;
-padding-right: 125px;
+padding-right: 127px;
 text-align: right;
 font-weight: normal;
 color: grey;
-font-family: 'SF Pro Text', Helvetica, Arial, sans-serif;
+font-family: 'Roboto', sans-serif;
 
 }
 
 .arrival1 {
 text-align: center;
 font-size: 16px;
-padding-right: 103px;
+padding-right: 100px;
 font-weight: normal;
 color: white;
-font-family: 'SF Pro Text', Helvetica, Arial, sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 
 .arrival2 {
@@ -211,7 +212,7 @@ font-size: 16px;
 padding-right: 192px;
 font-weight: normal;
 color: white;
-font-family: 'SF Pro Text', Helvetica, Arial, sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 
 .arrival3 {
@@ -220,7 +221,7 @@ font-size: 16px;
 padding-right: 229px;
 font-weight: normal;
 color: white;
-font-family: 'SF Pro Text', Helvetica, Arial, sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 
 .arrival4 {
@@ -229,26 +230,26 @@ font-size: 16px;
 padding-right: 149px;
 font-weight: normal;
 color: gray;
-font-family: 'SF Pro Text', Helvetica, Arial, sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 
 .frequency1 {
 font-size: 14px;
-padding-right: 85px;
+padding-right: 87px;
 color: orange;
 font-weight: normal;
 text-align: center;
-font-family: 'SF Pro Text';
+font-family: 'Roboto', sans-serif;
 }
 
 .frequency2 {
 text-align: center;
 font-size: 14px;
-padding-right: 180px;
+padding-right: 184px;
 color: orange;
 font-weight: normal;
 text-align: center;
-font-family: 'SF Pro Text';
+font-family: 'Roboto', sans-serif;
 }
 
 .frequency3 {
@@ -258,18 +259,18 @@ padding-right: 220px;
 color: red;
 font-weight: normal;
 text-align: center;
-font-family: 'SF Pro Text';
+font-family: 'Roboto', sans-serif;
 }
 
 .frequency4 {
 text-align: center;
 font-size: 14px;
 padding-left: 20px;
-padding-right: 156px;
+padding-right: 153px;
 color: yellow;
 font-weight: normal;
 text-align: center;
-font-family: 'SF Pro Text';
+font-family: 'Roboto', sans-serif;
 }
 
 .frequency5 {
@@ -280,7 +281,7 @@ padding-right: 160px;
 color: yellow;
 font-weight: normal;
 text-align: center;
-font-family: 'SF Pro Text';
+font-family: 'Roboto', sans-serif;
 }
 
 .chevron {
