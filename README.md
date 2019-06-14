@@ -9,3 +9,4 @@ A public transportation application project designed to apply frontend skills to
 * Red - A warning notification to let users know the bus is having issues arriving on time
 * Grey - Route is not in service
 
+![Screenshot](images/ui-bars/SS.png)
