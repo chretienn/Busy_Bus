@@ -1,4 +1,4 @@
-# Frontend Challenge: BusyBus
+# BusyBus
 A public transportation application project designed to apply frontend skills to build bus route views. HTML and CSS were the primary coding languages used to complete this project.
 
 ## Colors
